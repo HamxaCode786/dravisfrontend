@@ -1,0 +1,1042 @@
+@media screen and (max-width: 480px) {
+    body {
+      font-size: 12px;
+      width: 100%;
+      margin: 0rem;
+      overflow-x: hidden;
+    }
+  
+    .last_button_pinlist{         /*pin listing page responsiveness*/
+  
+      display: flex;
+      flex-flow: wrap;
+      justify-content: center;
+      gap: 1rem;
+      
+      }
+  /* Header Responsiveness */
+  
+  
+  .Container1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  .icons_1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+  }
+  
+  .Icons_response {
+  
+  gap: 5px !important;
+  size: 5px;  
+  }
+  
+  .Para1 {
+  
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 2px;
+  
+  }
+  
+  
+  .t1 {
+  
+  
+    font-size: 8px !important;
+    width:60%;
+    margin-top: -12px;
+  }
+  
+  .t2 {
+  
+  
+    font-size: 8px !important;
+    line-height: 12px;
+    width: 100%
+  
+    
+  }
+  
+  
+  
+  
+  
+  
+  /* Header Responsiveness */
+  
+  
+  
+  
+      .dd_2pinp {
+  
+        display: flex;
+        flex-flow: wrap;
+        justify-content: center;
+  
+  
+  
+  
+  
+      }
+  
+      .dd_2pinp {
+  
+        display: flex;
+        flex-flow: wrap;
+        justify-content: center;
+        
+  
+  
+  
+  
+      }
+  
+  
+      .cd_button_last_last_page {
+  
+        height: 4.5rem;
+  
+  
+  
+      }
+  
+  
+  
+      
+  
+    
+     
+     
+  /* Fully Responsive homepage 1 */
+  .heading_1 {
+    font-size: 45px;
+    margin-top: -4rem;
+  }
+  
+  .heading_2 {
+    font-size: 20px;
+    line-height: 40px;
+    margin-top: -1.5rem;
+  }
+  .heading_3 {
+    margin-top: -1rem;
+    font-size:15px;
+  }
+  .custom-button-group {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0px;
+  margin-right: 15px;
+  margin-left: 15px ;
+  margin-top: -1.5rem;
+  }
+  
+  .fb_1 {
+    width: 100%;
+    height: 40px;
+    font-size: 8px;
+  }
+  
+  .fb_2 {
+    width: 100%;
+    height: 40px;
+    font-size: 8px;
+  }
+  .fb_3 {
+    width: 100%;
+    height: 40px;
+    font-size: 8px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  .custom-button-group2 {
+  
+    margin-right: 15px;
+    margin-left: 15px ;
+    gap: 20px;
+    margin-top: -2rem;
+  
+  
+  
+  }
+  
+  .fb_4 {
+  
+  font-size: 8px;
+  height: 25px;
+  
+  
+  }
+  
+  .fb_5 {
+  
+    font-size: 8px;
+    height: 25px;
+  
+    
+    
+    }
+    
+  
+  
+  .editable_dropdowns {
+  
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap:20px ;
+  margin-top: -1rem;
+  margin-right: 15px;
+  margin-left: 15px;
+  
+  }
+  
+  
+  .editable_dd2 {
+  
+  display: flex;
+  justify-content: center;
+  
+  
+  
+  
+  }
+  
+  .d_1 {
+  
+  
+    width: 100%;
+    font-size: 8px;
+    height: 25px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  
+  }
+  
+  
+  .d_2 {
+  
+    width: 100%;
+    font-size: 8px;
+    height: 25px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+  
+  
+  }
+  
+  .d_3 {
+  
+    width: 100%;
+    font-size: 8px;
+    height: 25px;
+  
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  
+    
+  }
+  
+  .d_4 {
+  
+    width: 100%;
+    font-size: 8px;
+    height: 25px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+  
+  
+  
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .website_links {
+    margin-left: 15px;
+    margin-right: 15px;
+    gap: 5px;
+  }
+  
+  .fb_6 {
+  
+  font-size: 8px;
+  height: 25px;
+  
+  
+  
+  }
+  
+  
+  .fb_10 {
+  width: 150px;
+  font-size: 12px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -0.5rem;
+  
+  }
+  
+  .bar_background {
+    height: 36rem;
+    
+    }
+    
+    
+    .layer_background {
+    height: 36rem;
+    }
+    .Message_logo {
+  
+      margin-top: -10.9rem;
+    
+  
+  
+    }
+  
+  
+  .hp_l1{
+  
+  height: 3.5rem !important;
+  
+  
+  
+  
+  }
+  
+  .card_section1 {
+  
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    
+    
+    }
+    
+    .card_section2 {
+  
+      display: grid;
+      grid-template-rows: 1fr 1fr 1fr;
+      
+      }
+
+.cardbutton_1 {
+display: flex;
+justify-content: center;
+align-items: center;
+    height: 35px;
+}
+
+
+
+
+      
+  /* Bar One Responsive */
+  
+  .bar_1 {
+  height: 45px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  gap: 25px;
+  
+  }  
+  
+  
+  .img_2 {
+    height: 55px;
+    width: 90px; 
+    float: left;
+    margin-left: 0px;
+    padding: 10px;
+  }
+  
+  /* Buttons Bar Styling */
+  
+  .buttons_1 {
+  
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+    padding-top: 25px;
+    
+    
+    }
+    
+    
+    .home_1 {
+    padding: 0rem;
+    margin: 0;
+    height: 25px;
+    font-size: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+    }
+    
+    .login {
+      padding: 0rem;
+      margin: 0;
+      height: 25px;
+      font-size: 8px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: transparent;
+     
+    }
+    
+    .register {
+      padding: 0rem;
+      margin: 0;
+      width: 50px;
+      height: 25px;
+      font-size: 8px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+        
+    
+    
+    }
+    .start_sale {
+      padding: 0rem;
+      margin: 0;
+      width: 50px;
+      height: 25px;
+      font-size: 8px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+        
+    }
+    
+    
+    
+    .first_bar_cb {
+  
+  
+      margin-top: -5rem;
+    }
+    
+  
+  
+  /* Fully Responsive homepage 1 */
+  /* Fully Responsive homepage 2 */
+  
+  .bar_1hp2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 65px;
+  height: 45px;
+  margin: 0px;
+  padding: 0px;
+  
+  
+  
+  }
+  
+  .buttons_1hp2 {
+  
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+gap: 15px;
+width: 100px;  
+  
+  
+  }
+  
+  .home_1hp2 {
+  
+    padding: 0rem;
+    margin: 0;
+    height: 25px;
+    width: 10px;
+    font-size: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  
+  
+  }
+  
+  
+  .start_salehp2 {
+  
+    padding: 0rem;
+    margin: 0;
+    height: 25px;
+    width: 38px;
+    font-size: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    }
+    
+  .img_2hp {
+
+width: 55px !important;
+height: 32px;
+
+
+  }
+
+
+  .azlan_img {
+
+height: 25px;
+
+
+
+  }
+  
+  .Azlan_Text {
+font-size: 8px;
+
+  }
+
+
+
+
+  
+  
+  /* Fully Responsive homepage 2 */
+  
+  
+  /*purchase page */
+  
+  
+  
+  .pp_forms121 {
+  
+  display:grid;
+  grid-template-rows: 1fr 1fr;
+  margin-bottom: 2rem;
+  
+  }
+  
+  
+  
+  /* Footer REsponsiveness for mobiles */
+  
+  
+  .img_1 {
+    width: 90px;
+  height: 60px;
+  top: 55px;
+  
+  
+  }
+  
+  
+  .ht_2 {
+  
+  font-size: 14px;
+  
+  }
+  
+  /* Footer Responsive */
+  
+  
+     .Para1 P {
+       font-size: 12px;
+  
+  
+     }
+     
+  
+     
+  
+  
+  
+  
+  
+  
+  
+  
+  .cards_area {
+  
+  
+    width: 100%;
+  }
+  .card_1 {
+  
+    width:100%;
+    height: 560px;
+  }
+  .cimg_1 {
+  
+    width: 100%;
+  }
+  
+  
+  .footer_1 {
+  
+    width: 100%;
+  }
+
+  .card_buttons1 {
+display: flex;
+justify-content: center;
+align-items: center;
+    width: 250px;
+    margin-top: -9rem;
+    margin-bottom: -4.5rem;
+    
+    
+    
+      }
+      
+  .cb_1 {
+    width: 100%px;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .cb_2 {
+    width: 100%px;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .cb_3 {
+    width: 100%px;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+  .first_bar_cb {
+
+width: 100%;
+display: grid;
+grid-template-rows: 1fr 1fr;
+justify-content: center;
+align-items: center;
+
+
+  }
+
+.divch_1  {
+
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 7rem;
+
+
+
+
+}
+.ch_1  {
+text-align: center;
+width: 100%;
+font-size: 15px;
+margin: 0;
+padding: 0;
+margin-bottom: -1.8rem;
+
+}
+
+
+.cards_area {
+
+margin-top: -6rem;
+
+}
+
+  
+   /* Login Page Responsiveness */
+  
+  
+  
+   .form_logo {
+  
+    height:150px;
+    width: 200px;
+    margin-top: -2rem
+   }
+  
+  .responsive_form1 {
+  
+    justify-content: center;
+    align-items: center;
+    margin: 0rem;
+  }
+  
+  
+  
+  
+  /* Login Page Responsiveness */
+  
+  
+  /* Add New Listing Responsive ness */
+  
+  .alert-1 {
+
+margin: 0;
+padding-right: 15px;
+padding-left: 15px;
+margin-bottom: 8rem;
+margin-top: 1rem;;
+
+
+  }
+
+.alert_psp {
+
+    margin: 0;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 1rem;
+    
+
+}
+
+  .ss {
+
+    margin: 0;
+    padding: 0;
+  }
+
+  .mx-5 {
+margin: 0;
+padding: 0;
+
+  }
+.hamza_1 {
+
+
+    margin-right: 0rem;
+    margin-left: 0rem;
+    width: 100%;
+    padding-right: 0rem;
+    padding-left: 0rem;
+    margin-top: -7rem;
+}
+
+.row_123 {
+
+display: flex;
+flex-direction: row;
+align-items: center;
+gap: 12px !important;
+
+}
+
+.hamza_12345 {
+
+    margin-bottom: 6px !important;
+}
+
+
+.borders_ss1 {
+    margin-bottom: 0rem;
+    height: 25px;
+}
+.mb-6 {
+width: 100%;
+padding-right: 15px;
+padding-left: 15px;
+margin-top:0rem;
+height: 25px;
+}
+
+.dssp {
+    height: 25px;
+
+}
+
+
+.dssp2 {
+    height: 25px;
+
+
+}
+
+
+.borders_ss2 {
+    margin-bottom: 0rem;
+}
+.mb-6 {
+width: 100%;
+padding-right: 15px;
+padding-left: 15px;
+margin-top:0rem;
+height: 25px;
+}
+
+.p-5 {
+
+
+    margin: 0;
+    padding: 0 !important;
+}
+
+.dummy_1 {
+
+margin: 0;
+padding: 0;
+height: 25px;
+
+
+}
+
+.dummy_6 {
+
+    height: 25px;
+
+
+}
+
+.form-label {
+
+
+    font-size: 12px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.after_form {
+
+margin: 0rem;
+padding: 0rem;
+padding-right: 5px;
+padding-left: 5px;
+}
+
+.ss_img {
+
+font-size: 10px;
+}
+
+.drop_border {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 50%;
+height: 40px;
+
+}
+
+.drop_text1 {
+
+    font-size: 6.5px;
+}
+
+.ss_img2 {
+
+
+    font-size: 10px
+}
+
+.ss_button1 {
+
+width: 65%;
+
+
+}
+
+.ss_bs1 {
+
+    font-size: 10px;
+
+
+}
+.trying_ss_123 {
+margin: 0rem;
+padding: 0rem;
+
+
+}
+
+.st_1 {
+
+font-size: 8px !important;
+
+}
+
+.logo_eps {
+height: 5rem;
+
+}
+.logo_every_page {
+
+padding-right: 5px;
+margin-top: 2rem;
+
+}
+
+/* Add New Listing Responsive ness */
+  
+/* Profile Section Responsive ness */
+.ps_but1 {
+
+display: grid;
+grid-template-rows: 1fr 1fr;
+gap: 0.5rem;
+
+
+
+
+}
+
+.logo_section1 {
+
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    justify-content: center;
+    
+
+
+}
+.psch_1 {
+
+    margin-top: -6rem;
+    
+    
+    }
+    
+.psp_1  {
+
+margin-top: -10rem;
+
+}
+
+.psp_1 p {
+
+line-height: 15px;
+
+}
+
+/* Profile Section Responsive ness */
+/* Control Notifications Responsive ness */
+
+.form-check-inline {
+font-size: 7px !important;
+word-spacing: 1px;
+margin-left: 1.3rem;
+line-height: 10px;
+
+}
+
+.form-check-input {
+
+width: 14px;
+height: 14px;
+
+}
+
+.np_b1 {
+
+height: 25px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 10px !important;
+text-transform: none;
+margin-right: 1rem;
+margin-left: 1rem;
+
+}
+.np_b2 {
+
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px !important;
+    text-transform: none;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-top: -1.5rem;
+        
+    }
+    
+    
+
+
+
+
+
+
+
+/* Control Notifications Responsive ness */
+
+.hehehe_1 {
+
+
+  display: none !important;
+}
+
+.hehehe_rb2 {
+
+
+  margin-bottom: -10rem !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  };
+  
